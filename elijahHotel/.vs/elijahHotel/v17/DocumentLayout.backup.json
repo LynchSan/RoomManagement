@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cyber\\source\\repos\\elijahHotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2C0AEB-F5B3-4A35-90C4-2BFF035D7F0C}|elijahHotel\\elijahHotel.csproj|c:\\users\\cyber\\source\\repos\\elijahhotel\\elijahhotel\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B2C0AEB-F5B3-4A35-90C4-2BFF035D7F0C}|elijahHotel\\elijahHotel.csproj|solutionrelative:elijahhotel\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2C0AEB-F5B3-4A35-90C4-2BFF035D7F0C}|elijahHotel\\elijahHotel.csproj|C:\\Users\\Cyber\\source\\repos\\elijahHotel\\elijahhotel\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2C0AEB-F5B3-4A35-90C4-2BFF035D7F0C}|elijahHotel\\elijahHotel.csproj|solutionrelative:elijahhotel\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2C0AEB-F5B3-4A35-90C4-2BFF035D7F0C}|elijahHotel\\elijahHotel.csproj|C:\\Users\\Cyber\\source\\repos\\elijahHotel\\elijahhotel\\imagesroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2C0AEB-F5B3-4A35-90C4-2BFF035D7F0C}|elijahHotel\\elijahHotel.csproj|solutionrelative:elijahhotel\\imagesroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2C0AEB-F5B3-4A35-90C4-2BFF035D7F0C}|elijahHotel\\elijahHotel.csproj|c:\\users\\cyber\\source\\repos\\elijahhotel\\elijahhotel\\roomrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2C0AEB-F5B3-4A35-90C4-2BFF035D7F0C}|elijahHotel\\elijahHotel.csproj|solutionrelative:elijahhotel\\roomrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2C0AEB-F5B3-4A35-90C4-2BFF035D7F0C}|elijahHotel\\elijahHotel.csproj|C:\\Users\\Cyber\\source\\repos\\elijahHotel\\elijahhotel\\room.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2C0AEB-F5B3-4A35-90C4-2BFF035D7F0C}|elijahHotel\\elijahHotel.csproj|solutionrelative:elijahhotel\\room.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2C0AEB-F5B3-4A35-90C4-2BFF035D7F0C}|elijahHotel\\elijahHotel.csproj|C:\\Users\\Cyber\\source\\repos\\elijahHotel\\elijahhotel\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{4B2C0AEB-F5B3-4A35-90C4-2BFF035D7F0C}|elijahHotel\\elijahHotel.csproj|solutionrelative:elijahhotel\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\elijahHotel\\elijahHotel\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "elijahHotel\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\elijahHotel\\elijahHotel\\Properties\\Resources.resx",
+              "RelativeToolTip": "elijahHotel\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-12T11:37:57.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Room.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\elijahHotel\\elijahHotel\\Room.Designer.cs",
+              "RelativeDocumentMoniker": "elijahHotel\\Room.Designer.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\elijahHotel\\elijahHotel\\Room.Designer.cs",
+              "RelativeToolTip": "elijahHotel\\Room.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:50:30.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Room.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\elijahHotel\\elijahHotel\\Room.cs",
+              "RelativeDocumentMoniker": "elijahHotel\\Room.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\elijahHotel\\elijahHotel\\Room.cs [Design]",
+              "RelativeToolTip": "elijahHotel\\Room.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:41:20.92Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\elijahHotel\\elijahHotel\\Room.cs",
+              "RelativeDocumentMoniker": "elijahHotel\\Room.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\elijahHotel\\elijahHotel\\Room.cs",
+              "RelativeToolTip": "elijahHotel\\Room.cs",
+              "ViewState": "AgIAANIBAAAAAAAAAAAtwN8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:41:33.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "imagesRoom.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\elijahHotel\\elijahHotel\\imagesRoom.cs",
+              "RelativeDocumentMoniker": "elijahHotel\\imagesRoom.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\elijahHotel\\elijahHotel\\imagesRoom.cs",
+              "RelativeToolTip": "elijahHotel\\imagesRoom.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T11:15:35.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "roomRandom.cs",
+              "DocumentMoniker": "C:\\Users\\Cyber\\source\\repos\\elijahHotel\\elijahHotel\\roomRandom.cs",
+              "RelativeDocumentMoniker": "elijahHotel\\roomRandom.cs",
+              "ToolTip": "C:\\Users\\Cyber\\source\\repos\\elijahHotel\\elijahHotel\\roomRandom.cs",
+              "RelativeToolTip": "elijahHotel\\roomRandom.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T04:21:03.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 57,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

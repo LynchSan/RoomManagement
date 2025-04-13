@@ -1,0 +1,10 @@
+C:\Users\Cyber\source\repos\elijahHotel\elijahHotel\bin\Debug\elijahHotel.exe.config
+C:\Users\Cyber\source\repos\elijahHotel\elijahHotel\bin\Debug\elijahHotel.exe
+C:\Users\Cyber\source\repos\elijahHotel\elijahHotel\bin\Debug\elijahHotel.pdb
+C:\Users\Cyber\source\repos\elijahHotel\elijahHotel\obj\Debug\elijahHotel.csproj.AssemblyReference.cache
+C:\Users\Cyber\source\repos\elijahHotel\elijahHotel\obj\Debug\elijahHotel.Properties.Resources.resources
+C:\Users\Cyber\source\repos\elijahHotel\elijahHotel\obj\Debug\elijahHotel.Room.resources
+C:\Users\Cyber\source\repos\elijahHotel\elijahHotel\obj\Debug\elijahHotel.csproj.GenerateResource.cache
+C:\Users\Cyber\source\repos\elijahHotel\elijahHotel\obj\Debug\elijahHotel.csproj.CoreCompileInputs.cache
+C:\Users\Cyber\source\repos\elijahHotel\elijahHotel\obj\Debug\elijahHotel.exe
+C:\Users\Cyber\source\repos\elijahHotel\elijahHotel\obj\Debug\elijahHotel.pdb
